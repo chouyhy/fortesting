@@ -1,4 +1,4 @@
 fortesting
 ==========
 
-Just of testing.
+Just for testing.
